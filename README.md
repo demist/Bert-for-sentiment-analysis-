@@ -4,7 +4,7 @@
 
 `Predictor.ipynb` is a small notebook with model prediction.
 
-`model.pt` - checkpoint of the trained model.
+Ссылка на файл с весами: https://drive.google.com/file/d/110aQzOacYj1bdYAuSqbHAsBDCPhuD_-I/view?usp=sharing
 
 
 
