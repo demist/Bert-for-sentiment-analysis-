@@ -10,4 +10,4 @@
 
 The pretrained Bert was fine-tuned on the dataset *Sentiment140*. It contains 160,000 tweets with positive and negative sentiment (for test set neutral is also present).
 
-Desription of the dataset: http://help.sentiment140.com/for-students/
+Description of the dataset: http://help.sentiment140.com/for-students/
